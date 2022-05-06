@@ -12,8 +12,7 @@ You can contribute to this site by submitting pull request.
 
 ### Preview
 
-you can see the results of this repo through a [live demo](https://github.com/novaardiansyah/course-typescript-beginners/).),
-hopefully you like it.
+you can see the results of this repo through a [live demo](https://github.com/novaardiansyah/course-typescript-beginners/), hopefully you like it.
 
 it may take longer to demonstrate the website the first time, please be patient and it will all show up soon.
 
